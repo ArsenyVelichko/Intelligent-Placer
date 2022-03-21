@@ -1,0 +1,39 @@
+[Staple]
+image = objects/staple.jpg
+polygon = []
+
+[Card]
+image = objects/card.jpg
+polygon = []
+
+[Car]
+image = objects/car.jpg
+polygon = []
+
+[Torus]
+image = objects/torus.jpg
+polygon = []
+
+[Shell]
+image = objects/shell.jpg
+polygon = []
+
+[Threads]
+image = objects/threads.jpg
+polygon = []
+
+[Charger]
+image = objects/charger.jpg
+polygon = []
+
+[Puzzle]
+image = objects/puzzle.jpg
+polygon = []
+
+[Stand]
+image = objects/stand.jpg
+polygon = []
+
+[Marker]
+image = objects/marker.jpg
+polygon = []
